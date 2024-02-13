@@ -6,4 +6,4 @@ Ahora la carpeta archivos no solo ya es visible en el repositorio web, tambien e
 
 ¿Por qué
 es importante tener cuidado con modificar dos archivos al mismo tiempo?
-para evitar errores de archivos sin subir y de mismo nombre, 
+para evitar errores de archivos sin subir y de mismo nombre.
