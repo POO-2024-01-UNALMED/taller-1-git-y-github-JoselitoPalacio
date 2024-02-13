@@ -1,2 +1,0 @@
-¿Por qué ahora si puedo crear un commit y subir la carpeta?
-Ahora la carpeta archivos no solo ya es visible en el repositorio web, tambien es posible realizar un comit y un push de esta, esto es debido a que no es posible en github subir carpetas vacias
